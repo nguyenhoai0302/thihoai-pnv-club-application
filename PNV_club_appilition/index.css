@@ -7,25 +7,12 @@ body {
     width: 45%;
     margin: auto;
     border: 2px dashed red;
-
 }
 
 .col-4 {
     text-align: right;
 }
 
-
-.submit {
-    padding-top: 5%;
-}
-
-img {
-    width: 20%;
-    margin-left: 40%;
-}
-.form {
-    text-align: center;
-}
 .rows {
     padding-top: 15px;
 }
@@ -37,8 +24,6 @@ input[type=text], select{
     border-radius: 4px;
 }
 
-
-
 input[type=submit] {
     background-color: rgb(255, 196, 0);
     border: 3px solid rgb(125, 107, 5);
@@ -46,5 +31,17 @@ input[type=submit] {
     padding: 12px 20px;
     width:100%;
 }
+.submit {
+    padding-top: 5%;
+}
+
+img {
+    width: 20%;
+    margin-left: 40%;
+}
+.form {
+    text-align: center;
+}
+
 
 
